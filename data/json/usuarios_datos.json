@@ -1,0 +1,156 @@
+[
+    {
+        "nick": "Tebi",
+        "edad": "21",
+        "genero": "Transgenero",
+        "contraseña": "asdasd",
+        "puntaje": {
+            "Facil": 0,
+            "Media": 1.0,
+            "Dificil": 0
+        }
+    },
+    {
+        "nick": "Juan",
+        "edad": "25",
+        "genero": "Masculino",
+        "contraseña": "123",
+        "puntaje": {
+            "Facil": 2,
+            "Media": 4.0,
+            "Dificil": 1
+        }
+    },
+    {
+        "nick": "Emi",
+        "edad": "19",
+        "genero": "Femenino",
+        "contraseña": "1234",
+        "puntaje": {
+            "Facil": 5,
+            "Media": 0,
+            "Dificil": 0
+        }
+    },
+    {
+        "nick": "Jason",
+        "edad": "21",
+        "genero": "Masculino",
+        "contraseña": "3698e21",
+        "puntaje": {
+            "Facil": 0,
+            "Media": 0,
+            "Dificil": 1
+        }
+    },
+    {
+        "nick": "Fran",
+        "edad": "20",
+        "genero": "Masculino",
+        "contraseña": "holamundo",
+        "puntaje": {
+            "Facil": 5,
+            "Media": 0,
+            "Dificil": 3
+        }
+    },
+    {
+        "nick": "Luqita",
+        "edad": "22",
+        "genero": "Otro",
+        "contraseña": "123456",
+        "puntaje": {
+            "Facil": 4,
+            "Media": 0,
+            "Dificil": 1
+        }
+    },
+    {
+        "nick": "Marian",
+        "edad": "43",
+        "genero": "Masculino",
+        "contraseña": "1234",
+        "puntaje": {
+            "Facil": 5,
+            "Media": 0,
+            "Dificil": 0
+        }
+    },
+    {
+        "nick": "Tato",
+        "edad": "22",
+        "genero": "No-binario",
+        "contraseña": "123",
+        "puntaje": {
+            "Facil": 4,
+            "Media": 0,
+            "Dificil": 0
+        }
+    },
+    {
+        "nick": "Nati",
+        "edad": "41",
+        "genero": "Femenino",
+        "contraseña": "123",
+        "puntaje": {
+            "Facil": 6,
+            "Media": 0,
+            "Dificil": 0
+        }
+    },
+    {
+        "nick": "Coni",
+        "edad": "25",
+        "genero": "Femenino",
+        "contraseña": "123",
+        "puntaje": {
+            "Facil": 2,
+            "Media": 0,
+            "Dificil": 0
+        }
+    },
+    {
+        "nick": "ELizabeth",
+        "edad": "41",
+        "genero": "Femenino",
+        "contraseña": "123",
+        "puntaje": {
+            "Facil": 5,
+            "Media": 0,
+            "Dificil": 0
+        }
+    },
+    {
+        "nick": "Juli",
+        "edad": "27",
+        "genero": "Femenino",
+        "contraseña": "jc19",
+        "puntaje": {
+            "Facil": 4,
+            "Media": 4.0,
+            "Dificil": 4
+        }
+    },
+    {
+        "nick": "Mabe",
+        "edad": "60",
+        "genero": "Femenino",
+        "contraseña": "1234",
+        "puntaje": {
+            "Facil": 2,
+            "Media": 0,
+            "Dificil": 0
+        }
+    },
+    {
+        "nick": "Facu",
+        "edad": "26",
+        "genero": "Transgenero",
+        "contraseña": "python",
+        "puntaje": {
+            "Facil": 0,
+            "Media": 5,
+            "Dificil": 0
+        }
+    }
+]
