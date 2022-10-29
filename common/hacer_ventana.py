@@ -30,7 +30,7 @@ def crear_ventana(name:str,layout:list,acciones:Any,update_windows=default_updat
     """
     tiempo = 900 if name == "Pantalla de Juego"  else None
     initialize(data=sessions)
-    window = sg.Window(name,layout,finalize=True, size=(750, 500), element_justification=CENTER)
+    window = sg.Window(name,layout,finalize=True, size=(750, 600), element_justification=CENTER)
     loop = True
     while loop:
         event,values = window.read(timeout=tiempo)

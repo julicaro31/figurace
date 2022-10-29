@@ -6,6 +6,8 @@
 
 <img src="static/Menu.png"  height="500">
 
+<img src="static/Juego.png"  height="500">
+
 Los directorios se encuentran orientados de la siguiente manera:
 
 * `common`: Contiene las funciones comunes, que son transversales al proyecto
